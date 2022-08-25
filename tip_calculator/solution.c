@@ -20,6 +20,8 @@ int main()
     /* display results */
     printf("Tip: $%.2lf\n", tip);
     printf("Total: $%.2lf\n", total);
+
+    return 0;
 }
 
 double getDouble(string text)
