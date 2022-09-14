@@ -12,7 +12,7 @@ Formula: `TargetHeartRate = (((220 − age) − restingHR) × intensity) + resti
 
 `Resting Pulse: 65`   `Age: 22`
 
-`Intesity`  |  `Rate`
+`Intesity %`  |  `Rate bpm`
  --------       --------
  `55%`      | `138 bpm`
  `65%`      | `145 bpm`
