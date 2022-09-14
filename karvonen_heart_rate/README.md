@@ -1,8 +1,7 @@
 ## Description 
 
 Create a program that prompts for
-your age and your resting heart rate. Use the Karvonen for-
-mula to determine the target heart rate based on a range of
+your age and your resting heart rate. Use the Karvonen formula to determine the target heart rate based on a range of
 intensities from 55% to 95%. Generate a table with the results
 as shown in the example output. The formula is
 
