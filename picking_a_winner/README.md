@@ -19,7 +19,3 @@ leaves the entry blank. Then randomly select a winner.
 `Enter a name:`
 
 `The winner is... Maggie.`
-
-## Note
-
-Program is half completed
